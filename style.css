@@ -1,0 +1,43 @@
+#wrapper {
+	text-align:center;
+	width:800px;
+	margin: 0 auto;
+}
+
+a, a img {
+  text-decoration: none;
+  border:none;
+}
+
+h1 {
+	font-size:2.5em;
+}
+
+h2 {
+	font-size:1.7em;
+	text-align:right;
+}
+
+.btn {
+	font-size:1.5em;
+	border: grey 2px solid;
+}
+
+table {
+	margin:0 auto;
+}
+
+#status,#count {
+	font-size:1.5em;
+	color:grey;
+}
+
+select, input {
+	margin:3px;
+}
+
+#footer {
+	border-top: grey 2px solid;
+	padding:5px;
+	font-size:1.2em;
+}
